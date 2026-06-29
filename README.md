@@ -84,7 +84,7 @@
 ### 📫 Contact Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rakshith-gowda-7960b61a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhgV0rr1AT967fV4AgSTqlw%3D%3D)
-- 📬 rakshithdc1995@gmail.com
+- 📬 rakshithdc1997@gmail.com
 
 ---
 
