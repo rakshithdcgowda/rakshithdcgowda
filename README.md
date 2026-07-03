@@ -21,7 +21,7 @@
 
 🔧 I’m a **Software Development Engineer in Test (SDET)** with hands-on experience building scalable automation frameworks and integrating test suites into CI/CD pipelines.
 
-🌱 I'm passionate about **quality engineering**, **automation**, and driving faster releases with fewer bugs.
+🌱 I'm passionate about **quality engineering**, **automation**, and driving faster releases with No bugs.
 
 🧰 Current areas of focus:
 - Scalable UI & API Test Automation
